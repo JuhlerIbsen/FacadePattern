@@ -5,10 +5,10 @@
  */
 package facadepattern;
 
-import source.shape.Circle;
-import source.shape.Rectangle;
-import source.shape.Shape;
-import source.shape.Square;
+import facadepattern.shape.Circle;
+import facadepattern.shape.Rectangle;
+import facadepattern.shape.Shape;
+import facadepattern.shape.Square;
 
 /**
  *
